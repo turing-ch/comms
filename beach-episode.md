@@ -4,7 +4,7 @@ Turing at the beach, having a good time, frolicking. not really one hundo on the
 
 as far as how Turing looks in the pic, just keep in mind that he is a fairly typical twink. the only exception to that, Turing has no nipples. 
 
-I was thinking this could be used as a phone background (like the music player), but I got a new phone and the dimensions are ==2796 by 1290 pixels== now
+I was thinking this could be used as a phone background (like the music player), but I got a new phone and the dimensions are **2796 by 1290 pixels** now. 
 
 ## trunks 
 

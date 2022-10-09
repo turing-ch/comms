@@ -19,6 +19,8 @@ based on the phone background thingy below. just the thing from the middle of it
 
 ## copium 
 
+copium, but with Turing doing the coping. 
+
 ![copium](https://gumlet.assettype.com/afkgaming%2F2021-08%2F79649079-d0e7-4acd-853b-6a2b92797da3%2Fcopium_png.png?auto=format%2Ccompress&dpr=1.0&w=400) 
 
 ## note 
@@ -33,12 +35,12 @@ thinking of going with the peeking in from one side as opposed to peeking up fro
 
 ## head pats 
 
-the kind that uses this gif. would be animated. 
+the kind that uses this gif. would be animated. ig I'll have to provide a bust shot of Turing for this one too. 
 
 ![head pats](https://media.tenor.com/wR6Vwn6QVRUAAAAC/headpat-hand.gif) 
 
 ## wicked 
-this but with Turing wearing a similar pair of sunglasses made by Oakley. mostly just using the Oakleys as a color reference. I think the major things to capture here are pose for Turing and the color swap for the glasses. 
+this but with Turing wearing a pair of sunglasses like the ones below. mostly just using the sunglasses in the second pic as a color reference. I think the major things to capture here are pose for Turing and the color swap for the glasses. the frames for those glasses can be either the typical wicked style or something more like the ones shown below. 
 
 ![wicked](https://ih1.redbubble.net/image.2231605767.4890/st,small,507x507-pad,600x600,f8f8f8.jpg) 
 

@@ -9,6 +9,7 @@ hoping to make this a "living document (tm)" of all the emotes I want to commiss
 - [ ] [note](emotes.md#note) 
 - [ ] [peek](emotes.md#peek) 
 - [ ] [head pats](emotes.md#head%20pats) 
+- [ ] [hydrate](emotes.md#hydrate) 
 
 ## mlem
 
@@ -42,3 +43,7 @@ this but with Turing wearing a similar pair of sunglasses made by Oakley. mostly
 ![wicked](https://ih1.redbubble.net/image.2231605767.4890/st,small,507x507-pad,600x600,f8f8f8.jpg) 
 
 ![kato](https://uncrate.com/p/2021/05/oakley-kato-sunglasses-1.jpg)
+
+## hydrate
+
+Turing chugging sum water. should look like he's really taking that water to the mouth. 

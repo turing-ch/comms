@@ -8,6 +8,12 @@ I'm not really sure what the pose should be yet, bur I did have a few ideas for 
 
 I was thinking this could be used as a phone background (like the music player), but I got a new phone and the dimensions are **2796 by 1290 pixels** now. 
 
+## pose
+
+shot looking down on Turing jumping to grab the drone mentioned below. smile on Turing's face. drone is the focal point of the piece. 
+
+low key mostly letting you go wild on this part since it sounds like you have a pretty good idea of what you were thinking of. I have a few ideas of what it could look like, but I was honestly hoping for basically the earliest possible sketch just to get a better idea. 
+
 ## trunks 
 
 should be short but baggy, loose fitting, and bright yellow. instead of the typical crinkle you see on swim trunks, I want something that looks more intentional where the trunks have been intentionally creased to look like **shattered glass**. refer to fig. 1a for some idea of what that would look like. I was hoping to have the light play off of the texture in some interesting ways where some of the triangles are bright white while others are in a bit of shadow. for length, look at fig. 1b, but ignore the way those trunks are tight around the leg (keep it baggy). 

@@ -35,7 +35,7 @@ thinking of going with the peeking in from one side as opposed to peeking up fro
 
 ## head pats 
 
-the kind that uses this gif. would be animated. ig I'll have to provide a bust shot of Turing for this one too. 
+the kind that uses this gif. would be animated. ig I'll have to provide a bust shot of Turing for this one too. a ref of Turing can be found [here](./img/turing.jpg). was going to crop it for the emote, but I wasn't really sure where to put the crop, so I just added the whole thing. 
 
 ![head pats](https://media.tenor.com/wR6Vwn6QVRUAAAAC/headpat-hand.gif) 
 

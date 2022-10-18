@@ -4,12 +4,13 @@ hoping to make this a "living document (tm)" of all the emotes I want to commiss
 
 ## list 
 
-- [ ] [mlem](emotes.md#mlem) 
-- [ ] [copium](emotes.md#copium)
-- [ ] [note](emotes.md#note) 
-- [ ] [peek](emotes.md#peek) 
+- [x] [mlem](emotes.md#mlem) 
+- [x] [copium](emotes.md#copium)
+- [x] [note](emotes.md#note) 
+- [x] [peek](emotes.md#peek) 
 - [ ] [head pats](emotes.md#head%20pats) 
-- [ ] [hydrate](emotes.md#hydrate) 
+- [x] [wicked](emotes.md#wicked) 
+- [x] [hydrate](emotes.md#hydrate) 
 
 ## mlem
 

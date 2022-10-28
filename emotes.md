@@ -8,7 +8,7 @@ hoping to make this a "living document (tm)" of all the emotes I want to commiss
 - [x] [copium](emotes.md#copium)
 - [x] [note](emotes.md#note) 
 - [x] [peek](emotes.md#peek) 
-- [ ] [head pats](emotes.md#head%20pats) 
+- [x] [head pats](emotes.md#head%20pats) 
 - [x] [wicked](emotes.md#wicked) 
 - [x] [hydrate](emotes.md#hydrate) 
 
